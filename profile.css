@@ -1,0 +1,7 @@
+div{
+    height: 350px;
+    text-align: center;
+    width: 550px;
+    background-color:gainsboro;
+    transform:translate(450px,150px)
+}
